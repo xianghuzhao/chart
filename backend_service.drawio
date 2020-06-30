@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2020-06-29T01:04:41.975Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="gjEn05qjTjDIs_4-MsMH" version="13.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-30T13:23:14.848Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="CYZg-IzJLipk2p8RJ0UZ" version="13.3.5" type="github">
   <diagram id="0FCCqgC63-rQeXFX1PyM" name="第 1 页">
-    <mxGraphModel dx="1298" dy="843" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1298" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="yQ7IYdK0XYR42J4meZOE-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="120" width="480" height="400" as="geometry" />
+          <mxGeometry x="200" y="40" width="480" height="400" as="geometry" />
         </mxCell>
         <mxCell id="yQ7IYdK0XYR42J4meZOE-1" value="算法服务" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="520" y="610" width="120" height="90" as="geometry" />
@@ -14,13 +14,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yQ7IYdK0XYR42J4meZOE-2" value="业务服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="630" width="120" height="50" as="geometry" />
+          <mxGeometry x="300" y="630" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yQ7IYdK0XYR42J4meZOE-6" value="算法库" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;" vertex="1" parent="1">
           <mxGeometry x="530" y="650" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yQ7IYdK0XYR42J4meZOE-8" value="RPC" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="430" y="630" width="40" height="20" as="geometry" />
+          <mxGeometry x="450" y="630" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2020-07-06T05:57:26.959Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="LR-5oXhOPg5CVq78JUtF" version="13.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-13T07:32:04.418Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="l8nrWqMYVaLcNiWkPHXd" version="13.3.9" type="github">
   <diagram id="FX1fvMjgBzfTqih8M35x" name="第 1 页">
     <mxGraphModel dx="1298" dy="843" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="7i-D-QitMW7KGan96A4C-1" value="容器 (Docker / K8s)&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=right;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="7i-D-QitMW7KGan96A4C-1" value="容器 (Docker / Swarm / K8s)&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=right;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="80" y="160" width="460" height="460" as="geometry" />
         </mxCell>
         <mxCell id="7i-D-QitMW7KGan96A4C-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7i-D-QitMW7KGan96A4C-2" target="7i-D-QitMW7KGan96A4C-5" edge="1">
@@ -28,7 +28,7 @@
         <mxCell id="7i-D-QitMW7KGan96A4C-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="7i-D-QitMW7KGan96A4C-5" target="7i-D-QitMW7KGan96A4C-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7i-D-QitMW7KGan96A4C-5" value="反向代理 / 负载均衡&lt;br&gt;(Traefik)" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="7i-D-QitMW7KGan96A4C-5" value="反向代理 / 负载均衡&lt;br&gt;(Nginx / Traefik)" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="190" y="180" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7i-D-QitMW7KGan96A4C-7" value="HTTP 请求" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -144,7 +144,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7i-D-QitMW7KGan96A4C-60" value="GitLab CI/CD" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="552.5" y="340" width="75" height="20" as="geometry" />
+          <mxGeometry x="547.5" y="340" width="75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7i-D-QitMW7KGan96A4C-63" value="服务部署请求" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="420" y="360" width="30" height="20" as="geometry" />

@@ -1,1 +1,39 @@
-<mxfile host="app.diagrams.net" modified="2022-04-29T03:44:20.070Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36" etag="_-XyGnFJvtqFhKJBqupP" version="17.5.0" type="github"><diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">7Zxrb6M4FIZ/DdLsh6m4hFw+BprMSJPMVG1n9+PKBQesEoyMc5tfvzYYCHGakqohbECqWjg4B3zOg1/yJqpi2MvtNwIif45dGCi66m4V417RdU0fDdkfHtmlkWFPSwMeQa4YVASe0B8ogqqIrpAL49JAinFAUVQOOjgMoUNLMUAI3pSHLXBQPmsEPCgFnhwQyNF/kEt9MQtTLeLfIfL87MyaKo4sQTZYBGIfuHhTCsEtneKQikt8gGQJQhhSdmQOyCskijnxKeUzHSv6lP0s+Og7D2MvgCBC8Z2DlyzsxGzIdAGWKOBl3ktkiUTsdMZEMWyCMU23llsbBrxXWRvSa5q+cTSvA+F5K7zA/rrezV5VGn7fGH/T+dx7GLx8FVnWIFiJ+ora0F1WcOiy+otddipEd48wABThcFIcsWDojnl32aDJ4x9I8DOeg5BN3oopILQ4hkMxfIrY5Rn3WjZE7KvJPsGv0MYBJsk1GIPhcDw22BFe7714r98bmfcsTvAqdKEr8smlEfOM8Yo48EQ99J5AGhAP0hMD+wIYt0SrqPw3iJeQkh0bsCkYzUn09/nMgiQp6rpMORAkennC/BwPGCVgihvb6Ik84rYeZEhnKdKpi1ftY3KQqHeQqH+YKC2NlIht7E28CCUUnkOk3iFZKohRkUht0DAke2qZJG34UST75US6ataKpEzkL+JCEktcMkWJ+CYFLwmBCURCQg1OERNFClAIiaDCwUEAohglw9OIjwJ3BnZ4RbNE2Z61QFvoPqYKqiWEbWYsWSwQ5SBmdwU/DALkhWzbYcjxM1oExuxaZiCmeYJ9RBeM9j2QLd0eja0Pof8m7GtIKNyepDPruXkAT7YM7dGrm8foNdS3QS2RcS4GxvsLUwYAmzpFIHhkD0Ag9BIWyq3m/XIJjp6zu5oHIg4wJJM1TB9B1IOmhOlClQxLJmda7IdN11bvTIVVXrfZvlbsJ82IMGFNClkXAUraARkAG8ghsCiOxHkCuMgug4hi8u0XTCl7ojmGy2dgcfJ2e58VwYZREY2LkdGTyHj4cQ4bmM11ESRq5CPXhWG6VPDnZ1DwcgSFo/3Le3bYzMMFoqZ+GpX7uddA48z+iWRFVc/OBgJ274WAQouXJb6EkJgSJ5gLyb/sRbaujNVU9X7+eua/f89mSv5WpUkYZbqSjrXiCDgo9GbpK/sHnJlN5GyrvLlu6J/KXaV0NYDXb7N0qQ2Wrv61pWsgkTH9oZ0DR02LTk0N7Fdu4K1r1VACw1nFrDepXOlHtKpxzLwrVI2DqnXCNOqEqZnCNLq2MGWfN3wQjduSpVHl9t26LGnyJxbpeyiXnZbFxZ9Olz6VqtbpkiabfU8+ipaJinS2b222rz6sqEOXs3012d1r0TNKjT6hVt3AaYrxq8mOXuf8Hrl1uucWTbbgYiEonf1bN2zte5yRbb4WaViNb9TO17CrO8Ca7PS12gLO75VOtDTZnss/sOwc4Msw1Tptyi6j06bGadPVTWBddvsauMrU5eGrlft368KUYXDs3VRnBF+SrPbJk+wE2+KD8M4JvqATnH/h9+wvAKsXU6POCa5pPfr/OcF65wSf7GjnBOelkJ3g975Z1dnAFyGtfc8ynQ3cVAG7ug2syzZwA1eduvrXecB5KWQPOJerECz5RTs+IF9M9a/u7fan03VDEsV2i392kA4v/kOFMfkP</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-29T06:08:45.757Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36" etag="r8YfqiKsgF0rA7hCJZ8x" version="17.5.0" type="github">
+  <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
+    <mxGraphModel dx="1298" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="C-vyLk0tnHw3VtMMgP7b-23" value="Customers" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;rounded=1;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" parent="1" vertex="1">
+          <mxGeometry x="120" y="120" width="250" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="C-vyLk0tnHw3VtMMgP7b-24" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;rounded=1;strokeColor=#788AA3;fontColor=#46495D;" parent="C-vyLk0tnHw3VtMMgP7b-23" vertex="1">
+          <mxGeometry y="30" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="C-vyLk0tnHw3VtMMgP7b-25" value="PK" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;rounded=1;strokeColor=#788AA3;fontColor=#46495D;" parent="C-vyLk0tnHw3VtMMgP7b-24" vertex="1">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C-vyLk0tnHw3VtMMgP7b-26" value="customer_id int NOT NULL " style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;rounded=1;strokeColor=#788AA3;fontColor=#46495D;" parent="C-vyLk0tnHw3VtMMgP7b-24" vertex="1">
+          <mxGeometry x="30" width="220" height="30" as="geometry">
+            <mxRectangle width="220" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C-vyLk0tnHw3VtMMgP7b-27" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;rounded=1;strokeColor=#788AA3;fontColor=#46495D;" parent="C-vyLk0tnHw3VtMMgP7b-23" vertex="1">
+          <mxGeometry y="60" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="C-vyLk0tnHw3VtMMgP7b-28" value="" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;rounded=1;strokeColor=#788AA3;fontColor=#46495D;" parent="C-vyLk0tnHw3VtMMgP7b-27" vertex="1">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C-vyLk0tnHw3VtMMgP7b-29" value="customer_name char(50) NOT NULL" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;rounded=1;strokeColor=#788AA3;fontColor=#46495D;" parent="C-vyLk0tnHw3VtMMgP7b-27" vertex="1">
+          <mxGeometry x="30" width="220" height="30" as="geometry">
+            <mxRectangle width="220" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
